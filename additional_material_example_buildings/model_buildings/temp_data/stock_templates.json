@@ -1,0 +1,434 @@
+[
+    {
+        "template_name": "Außenwand Gaube Holzrahmenbau Schieferverkleidung",
+        "CG_DIN_276": "330",
+        "UUID": "2402020",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,20mm\n2\nGipskartonplatte (imprägniert), 12,50mm\n3\nKleber für Gipsplatten, 2,50mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 24,00mm\n5\nMineralwolle (Fassaden-Dämmung), 120,00mm\n6\nKonstruktionsvollholz (Durchschnitt DE), 24,00mm\n7\nKonstruktionsvollholz (Durchschnitt DE), 24,00mm\n8\nSchiefer, 11,00mm\nUnterspannbahn PP, 0,27 kg",
+        "public": false,
+        "U-Value": "0,265"
+    },
+    {
+        "template_name": "Außenwand Holzmassivbau Holzverkleidung",
+        "CG_DIN_276": "330",
+        "UUID": "2402036",
+        "description": "Gipskartonplatte (Feuerschutz), 12,50mm/\nNadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm/\nZellulosefaserplatten, 80,00mm/\nBrettschichtholz - Standardformen (Durchschnitt DE), 130,00mm/\nZellulosefaserplatten, 160,00mm/\nKonstruktionsvollholz (Durchschnitt DE), 160,00mm/\nZellulosefaserplatten, 160,00mm/\nKonstruktionsvollholz (Durchschnitt DE), 160,00mm/\nMitteldichte Faserplatte (MDF), 15,00mm/\neLCA Luftschicht, 30,00mm/\nNadelschnittholz - getrocknet (Durchschnitt DE), 30,00mm/\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 20,00mm",
+        "public": false,
+        "U-Value": "0,108"
+    },
+    {
+        "template_name": "Außenwand Holzmassivbau Holzverkleidung KfW 55",
+        "CG_DIN_276": "330",
+        "UUID": "2402028",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nNadelschnittholz - getrocknet (Durchschnitt DE), 50,00mm\n3\nZellulosefaserplatten, 50,00mm\n4\nBrettschichtholz - Standardformen (Durchschnitt DE), 130,00mm\n5\nZellulosefaserplatten, 60,00mm\n6\nKonstruktionsvollholz (Durchschnitt DE), 60,00mm\n7\nZellulosefaserplatten, 60,00mm\n8\nKonstruktionsvollholz (Durchschnitt DE), 60,00mm\n9\nMitteldichte Faserplatte (MDF), 15,00mm\n10\neLCA Luftschicht, 30,00mm\n11\nNadelschnittholz - getrocknet (Durchschnitt DE), 30,00mm\n12\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 20,00mm",
+        "public": false,
+        "U-Value": "0,2"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau Baustroh Lehmputz",
+        "CG_DIN_276": "330",
+        "UUID": "2402045",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nDampfbremse PE, 0,10mm\n3\nOriented Strand Board (Durchschnitt DE), 15,00mm\n4\nFASBA e.V. Baustroh 100 kg/m³, 350,00mm\n5\nKonstruktionsvollholz (Durchschnitt DE), 350,00mm\n6\nLehmputz, 10,00mm\nGipsputz (Gips), 0,2 kg",
+        "public": false,
+        "U-Value": "0,163"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau Holzverkleidung",
+        "CG_DIN_276": "330",
+        "UUID": "2402057",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nMineralwolle (Innenausbau-Dämmung), 100,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n5\nOriented Strand Board (Durchschnitt DE), 18,00mm\n6\nMineralwolle (Fassaden-Dämmung), 180,00mm\n7\nKonstruktionsvollholz (Durchschnitt DE), 180,00mm\n8\nMineralwolle (Fassaden-Dämmung), 100,00mm\n9\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n10\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n11\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 25,00mm",
+        "public": false,
+        "U-Value": "0,116"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau Holzverkleidung KfW 55",
+        "CG_DIN_276": "330",
+        "UUID": "2731920",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nDampfbremse PE, 0,20mm\n3\nMineralwolle (Innenausbau-Dämmung), 100,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n5\nOriented Strand Board (Durchschnitt DE), 18,00mm\n6\nMineralwolle (Fassaden-Dämmung), 120,00mm\n7\nKonstruktionsvollholz (Durchschnitt DE), 120,00mm\n8\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n9\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 25,00mm",
+        "public": false,
+        "U-Value": "0,196"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau verputzt",
+        "CG_DIN_276": "330",
+        "UUID": "2402065",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nMineralwolle (Innenausbau-Dämmung), 80,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 80,00mm\n5\nMineralwolle (Fassaden-Dämmung), 240,00mm\n6\nKonstruktionsvollholz (Durchschnitt DE), 240,00mm\n7\nOriented Strand Board (Durchschnitt DE), 18,00mm\n8\nHolzfaserdämmplatten, 60,00mm\n9\nKunstharzputz, 5,00mm",
+        "public": false,
+        "U-Value": "0,109"
+    },
+    {
+        "template_name": "Außenwand Mauerwerk erdberührt",
+        "CG_DIN_276": "330",
+        "UUID": "2402073",
+        "description": "1\nKalk-Innenputz, 5,00mm\n2\nKalksandstein Mix, 240,00mm\n3\nBitumen Emulsion (40% Bitumen, 60% Wasser), 2,00mm\n4\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 140,00mm",
+        "public": false,
+        "U-Value": "0,228"
+    },
+    {
+        "template_name": "Außenwand zweischaliges Mauerwerk hinterlüftet",
+        "CG_DIN_276": "330",
+        "UUID": "2402081",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,30mm\n2\nGipsputz (Gips), 20,00mm\n3\nKalksandstein Mix, 240,00mm\n4\nMineralwolle (Fassaden-Dämmung), 170,00mm\n5\neLCA Luftschicht, 120,00mm\n6\nVormauerziegel, 115,00mm",
+        "public": false,
+        "U-Value": "0,208"
+    },
+    {
+        "template_name": "Außenwand zweischaliges Mauerwerk Kerndämmung",
+        "CG_DIN_276": "330",
+        "UUID": "2402089",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,30mm\n2\nGipsputz (Gips), 20,00mm\n3\nKalksandstein Mix, 240,00mm\n4\nMineralwolle (Fassaden-Dämmung), 170,00mm\n5\nVormauerziegel, 115,00mm",
+        "public": false,
+        "U-Value": "0,201"
+    },
+    {
+        "template_name": "AW Mauerwerk KfW 55",
+        "CG_DIN_276": "330",
+        "UUID": "2402097",
+        "description": "Innenfarbe Dispersionsfarbe scheuerfest, 0,30mm/\nGipsputz (Gips), 20,00mm/\nKalksandstein Mix, 240,00mm/\nArmierung (Kunstharzspachtel), 2,00mm/\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 160,00mm/\nArmierung (Kunstharzspachtel), 4,00mm/\nKunstharzputz, 2,00mm",
+        "public": false,
+        "U-Value": "0,2"
+    },
+    {
+        "template_name": "timber wall",
+        "CG_DIN_276": "330",
+        "UUID": "2795640",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nMineralwolle (Innenausbau-Dämmung), 100,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n5\nOriented Strand Board (Durchschnitt DE), 18,00mm\n6\nMineralwolle (Fassaden-Dämmung), 180,00mm\n7\nKonstruktionsvollholz (Durchschnitt DE), 180,00mm\n8\nMineralwolle (Fassaden-Dämmung), 100,00mm\n9\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n10\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n11\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 25,00mm",
+        "public": false,
+        "U-Value": "0,116"
+    },
+    {
+        "template_name": "concrete roof",
+        "CG_DIN_276": "360",
+        "UUID": "2794958",
+        "description": "Dämmung 12 cm (WLS 035) auf Betondecke",
+        "public": false,
+        "U-Value": "0,23"
+    },
+    {
+        "template_name": "Dachterrasse",
+        "CG_DIN_276": "360",
+        "UUID": "2402105",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,10mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nGipskartonplatte (Feuerschutz), 12,50mm\n4\nStahl Feinblech (0,3-3,0mm), 50,00mm\n5\neLCA Luftschicht, 50,00mm\n6\nBrettsperrholz (Durchschnitt DE), 130,00mm\n7\nBitumenbahnen PYE PV 200 S5 (ungeschiefert), 1,00mm\n8\nXPS-Dämmstoff, 300,00mm\n9\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n10\nKies 2/32 getrocknet, 60,00mm",
+        "public": false,
+        "U-Value": "0,112"
+    },
+    {
+        "template_name": "Fachdach unbelüftet, begehbar Stb.",
+        "CG_DIN_276": "360",
+        "UUID": "2402111",
+        "description": "1\nTransportbeton C20/25, 200,00mm\n2\nBewehrungsstahl, 200,00mm\n3\nDampfbremse PET gitterverstärkt, 1,00mm\n4\nPolyethylen-Schaum, 5,00mm\n5\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 120,00mm\n6\nBitumen Kaltkleber (60% bitumen, 23%LM, 17% Wasser), 10,00mm\n7\nKunststoffprofil CR (Chloropren-Kautschuk), 10,00mm\n8\nKies 2/32, 30,00mm\n9\nNatursteinplatte, hart, Außenbereich, 50,00mm",
+        "public": false,
+        "U-Value": "0,261"
+    },
+    {
+        "template_name": "Flachdach belüftet Holzrahmenbau",
+        "CG_DIN_276": "360",
+        "UUID": "2402119",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,10mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nGipskartonplatte (Feuerschutz), 12,50mm\n4\nStahl Feinblech (0,3-3,0mm), 50,00mm\n5\neLCA Luftschicht, 50,00mm\n6\nNadelschnittholz - getrocknet (Durchschnitt DE), 200,00mm\n7\nZellulosefaserplatten, 200,00mm\n8\nUnterspannbahn PP, 0,20mm\n9\nNadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm\n10\neLCA Luftschicht, 80,00mm\n11\nNadelschnittholz - getrocknet (Durchschnitt DE), 24,00mm\n12\nDachbahnen EPDM, 2,00mm\n13\nNedZink Naturel, 0,40mm",
+        "public": false,
+        "U-Value": "0,203"
+    },
+    {
+        "template_name": "Flachdach unbelüftet Stb.",
+        "CG_DIN_276": "360",
+        "UUID": "2402125",
+        "description": "1\nTransportbeton C20/25, 200,00mm\n2\nBewehrungsstahl, 200,00mm\n3\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 200,00mm\n4\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n5\nKies 2/32 getrocknet, 60,00mm",
+        "public": false,
+        "U-Value": "0,167"
+    },
+    {
+        "template_name": "Flachdach unbelüftet Stb.",
+        "CG_DIN_276": "360",
+        "UUID": "2402128",
+        "description": "1\nTransportbeton C20/25, 200,00mm\n2\nBewehrungsstahl, 200,00mm\n3\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 200,00mm\n4\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n5\nKies 2/32 getrocknet, 60,00mm",
+        "public": false,
+        "U-Value": "0,167"
+    },
+    {
+        "template_name": "Gründach belüftet Holzrahmenbau",
+        "CG_DIN_276": "360",
+        "UUID": "2402146",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,10mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nGipskartonplatte (Feuerschutz), 12,50mm\n4\nStahl Feinblech (0,3-3,0mm), 50,00mm\n5\neLCA Luftschicht, 50,00mm\n6\nNadelschnittholz - getrocknet (Durchschnitt DE), 200,00mm\n7\nZellulosefaserplatten, 200,00mm\n8\nUnterspannbahn PP, 0,20mm\n9\nNadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm\n10\neLCA Luftschicht, 80,00mm\n11\nNadelschnittholz - getrocknet (Durchschnitt DE), 24,00mm\n12\nDachbahnen EPDM, 2,00mm\n13\nNedZink Naturel, 0,40mm\n14\nFolie für Gründach, 7,00mm\n15\nLava Körnung, 60,00mm\n16\nPE/PP Vlies, 0,50mm\n17\nSand 0/2, 100,00mm",
+        "public": false,
+        "U-Value": "0,195"
+    },
+    {
+        "template_name": "Gründach belüftet Holzrahmenbau KfW 55",
+        "CG_DIN_276": "360",
+        "UUID": "2402136",
+        "description": "1\nKnauf - Gipskartonplatten GKB - Bauplatte 12,5 mm (680 kg/m³ u. 8,5 kg/m²), 12,50mm\n2\nKonstruktionsvollholz (Durchschnitt DE), 240,00mm\n3\nZellulosefaserplatten, 240,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 120,00mm\n5\nZellulosefaserplatten, 120,00mm\n6\nUnterspannbahn PP, 0,20mm\n7\nNadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm\n8\neLCA Luftschicht, 80,00mm\n9\nNadelschnittholz - getrocknet (Durchschnitt DE), 24,00mm\n10\nDachbahnen EPDM, 2,00mm\n11\nFolie für Gründach, 7,00mm\n12\nLava Körnung, 60,00mm\n13\nPE/PP Vlies, 0,50mm\n14\nSand 0/2, 100,00mm",
+        "public": false,
+        "U-Value": "0,135"
+    },
+    {
+        "template_name": "Gründach extensiv Holzmassivbau",
+        "CG_DIN_276": "360",
+        "UUID": "2402154",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,10mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nGipskartonplatte (Feuerschutz), 12,50mm\n4\nStahl Feinblech (0,3-3,0mm), 50,00mm\n5\neLCA Luftschicht, 50,00mm\n6\nBrettsperrholz (Durchschnitt DE), 125,00mm\n7\nHolzfaserdämmplatten, 200,00mm\n8\nDachbahnen EPDM, 0,10mm\n9\nFolie für Gründach, 7,00mm\n10\nLava Körnung, 60,00mm\n11\nPE/PP Vlies, 0,50mm\n12\nSand 0/2, 100,00mm",
+        "public": false,
+        "U-Value": "0,167"
+    },
+    {
+        "template_name": "Gründach extensiv Stb. KfW 55",
+        "CG_DIN_276": "360",
+        "UUID": "2402162",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,10mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nGipskartonplatte (Feuerschutz), 12,50mm\n4\nStahl Feinblech (0,3-3,0mm), 50,00mm\n5\neLCA Luftschicht, 50,00mm\n6\nBewehrungsstahl, 200,00mm\n7\nTransportbeton C20/25, 200,00mm\n8\nZellulosefaserplatten, 270,00mm\n9\nDachbahnen EPDM, 0,10mm\n10\nFolie für Gründach, 7,00mm\n11\nLava Körnung, 60,00mm\n12\nPE/PP Vlies, 0,50mm\n13\nSand 0/2, 100,00mm",
+        "public": false,
+        "U-Value": "0,136"
+    },
+    {
+        "template_name": "Sparrendach unbelüftet Zwischensparrendämmung Ziegel",
+        "CG_DIN_276": "360",
+        "UUID": "2402174",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,30mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nGipskartonplatte (Feuerschutz), 12,50mm\n4\nPE/PP Vlies, 1,00mm\n5\nNadelschnittholz - frisch (Durchschnitt DE), 200,00mm\n6\nMineralwolle (Schrägdach-Dämmung), 200,00mm\n7\nDampfbremse PE, 1,00mm\n8\nNadelschnittholz - frisch (Durchschnitt DE), 30,00mm\n9\nNadelschnittholz - frisch (Durchschnitt DE), 30,00mm\n10\nDachziegel, 30,00mm",
+        "public": false,
+        "U-Value": "0,197"
+    },
+    {
+        "template_name": "1.88 m² aluminum window",
+        "CG_DIN_276": "334",
+        "UUID": "2795493",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster doppeltverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402180",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster doppeltverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709485",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2732187",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402183",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709489",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster einfachverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402184",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster einfachverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709491",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster doppeltverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402175",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster doppeltverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709473",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster doppeltverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402176",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster doppeltverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709475",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2402177",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2709477",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402178",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402179",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709479",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster einfachverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709481",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402185",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709493",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402186",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709495",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709496",
+        "description": "1\nAnschlussfuge: Elastomer Fugenbänder, Polyurethan\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Isolierglas 2-Scheiben",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2402187",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2402188",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2709497",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "CG_DIN_276": "334",
+        "UUID": "2732189",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder PE/PP-Folie\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402189",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster einfachverglast Aluminiumrahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709499",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Aluminium-Rahmenprofil, pulverbeschichtet\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster einfachverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2402190",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster einfachverglast PVC-Rahmen",
+        "CG_DIN_276": "334",
+        "UUID": "2709501",
+        "description": "1\nAnschlussfuge: Fugendichtungsbänder Butyl\n2\nBlendrahmen: Blendrahmen PVC-U\n3\nVerglasung: Fensterglas einfach",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    }
+]

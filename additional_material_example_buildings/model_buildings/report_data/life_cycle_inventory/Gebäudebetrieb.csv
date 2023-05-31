@@ -1,0 +1,5 @@
+archetype name,NFA in m²,energy carrier template,existing building final energy heating in kWh/m²a,existing building final energy hot water in kWh/m²a,Bestand Endenergie in kWh/m²a,Außenwandsanierung Endenergie in kWh/m²a,Dachsanierung Endenergie in kWh/m²a,Fenstersanierung Endenergie in kWh/m²a,Komplettsanierung Endenergie in kWh/m²a
+A,147.63,Strom-Wärmepumpe Sole-Wasser (0/35),60.5,20.0,"80,50","76,86","78,54","74,70","68,44"
+B,162.3,Strom-Wärmepumpe Sole-Wasser (0/35),60.5,20.0,"80,50","76,86","78,54","74,70","68,44"
+C,139.13,Strom-Wärmepumpe Sole-Wasser (0/35),60.5,20.0,"80,50","76,86","78,54","74,70","68,44"
+D,164.41,Strom-Wärmepumpe Sole-Wasser (0/35),60.5,20.0,"80,50","76,86","78,54","74,70","68,44"

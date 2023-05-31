@@ -1,0 +1,44 @@
+Wirkungsanalyse,D Bestand,D Außenwandsanierung,D Dachsanierung,D Fenstersanierung,D Komplettsanierung
+GWP pro Gebäude,"17,17268201","17,95480100","16,68774020","16,74824348","16,95377894"
+Modul B6,"11,17751235","10,67209440","10,90536423","10,37217606","9,50296827"
+Konstruktion (KGR 300),"5,99516966","7,28270660","5,78237597","6,37606742","7,45081067"
+Ersparnis Bestand vs. Neubau,"2,9321094683","2,7686591931","2,8823054345","2,4728279417","2,2595736327"
+AW Mauerwerk KfW 55,"2,3875106384","3,6750475749","2,3875106384","2,3875106384","3,6750475749"
+AW Mauerwerk KfW 55: Baustoff  Innenfarbe Dispersionsfarbe scheuerfest [Altsubstanz],"0,1546434654","0,1546434654","0,1546434654","0,1546434654","0,1546434654"
+AW Mauerwerk KfW 55: Baustoff  Gipsputz (Gips) [Altsubstanz],"8,4310717463E-3","8,4310717463E-3","8,4310717463E-3","8,4310717463E-3","8,4310717463E-3"
+AW Mauerwerk KfW 55: Baustoff  Kalksandstein Mix [Altsubstanz],"0,0380242793","0,0380242793","0,0380242793","0,0380242793","0,0380242793"
+AW Mauerwerk KfW 55: Baustoff  Armierung (Kunstharzspachtel) [Altsubstanz],"0,1913002000","0,0956501000","0,1913002000","0,1913002000","0,0956501000"
+AW Mauerwerk KfW 55: Baustoff  EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035 [Altsubstanz],"1,8978689861","1,8978689861","1,8978689861","1,8978689861","1,8978689861"
+AW Mauerwerk KfW 55: Baustoff  Armierung (Kunstharzspachtel),-,"0,1883961642",-,-,"0,1883961642"
+AW Mauerwerk KfW 55: Baustoff  EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035,-,"1,1240866614",-,-,"1,1240866614"
+AW Mauerwerk KfW 55: Baustoff  Kunstharzputz,-,"0,0737487647",-,-,"0,0737487647"
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard","0,6829021135","0,6829021135","0,6829021135","1,0637998745","1,0637998745"
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff  Fugendichtungsbänder PE/PP-Folie [Altsubstanz]","0,2074495901","0,2074495901","0,2074495901",-,-
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Dreifachverglasung [Altsubstanz]","0,4754410308","0,4754410308","0,4754410308",-,-
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Aluminium-Rahmenprofil, pulverbeschichtet [Altsubstanz]","1,1492677523E-5","1,1492677523E-5","1,1492677523E-5",-,-
+Gründach belüftet Holzrahmenbau KfW 55,"2,9247569068","2,9247569068","2,7119632228","2,9247569068","2,7119632228"
+"Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Knauf - Gipskartonplatten GKB - Bauplatte 12,5 mm (680 kg/m³ u. 8,5 kg/m²) [Altsubstanz]","4,7345870352E-3","4,7345870352E-3","4,7345870352E-3","4,7345870352E-3","4,7345870352E-3"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Konstruktionsvollholz (Durchschnitt DE) [Altsubstanz],"0,1599564017","0,1599564017","0,1599564017","0,1599564017","0,1599564017"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Zellulosefaserplatten [Altsubstanz],"0,3322890966","0,3322890966","0,3322890966","0,3322890966","0,3322890966"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Unterspannbahn PP [Altsubstanz],"0,0159672060","0,0159672060",-,"0,0159672060",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  eLCA Luftschicht [Altsubstanz],"0,0000000000","0,0000000000",-,"0,0000000000",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Nadelschnittholz - getrocknet (Durchschnitt DE) [Altsubstanz],"0,1573892002","0,1573892002",-,"0,1573892002",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Dachbahnen EPDM [Altsubstanz],"0,2591910440","0,2591910440",-,"0,2591910440",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Folie für Gründach [Altsubstanz],"0,8971857022","0,8971857022",-,"0,8971857022",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Lava Körnung [Altsubstanz],"1,4815450773E-3","1,4815450773E-3",-,"1,4815450773E-3",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  PE/PP Vlies [Altsubstanz],"4,1145610138E-3","4,1145610138E-3",-,"4,1145610138E-3",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Sand 0/2 [Altsubstanz],"3,0304331126E-3","3,0304331126E-3",-,"3,0304331126E-3",-
+AW Mauerwerk KfW 55: Baustoff  Kunstharzputz [Altsubstanz],"1,5925357743E-3",-,"1,5925357743E-3","1,5925357743E-3",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Konstruktionsvollholz (Durchschnitt DE),-,-,"0,0225782081",-,"0,0225782081"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Mineralwolle (Flachdach-Dämmung),-,-,"0,1996240727",-,"0,1996240727"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Unterspannbahn PP,-,-,"0,0129249245",-,"0,0129249245"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  eLCA Luftschicht,-,-,"0,0000000000",-,"0,0000000000"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Nadelschnittholz - getrocknet (Durchschnitt DE),-,-,"0,0122435764",-,"0,0122435764"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Dachbahnen EPDM,-,-,"0,2195000767",-,"0,2195000767"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Folie für Gründach,-,-,"0,7371749961",-,"0,7371749961"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Lava Körnung,-,-,"3,5474228635E-3",-,"3,5474228635E-3"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  PE/PP Vlies,-,-,"8,4237945052E-3",-,"8,4237945052E-3"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Sand 0/2,-,-,"6,3126848169E-3",-,"6,3126848169E-3"
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff  Fugendichtungsbänder PE/PP-Folie",-,-,-,"0,1659633303","0,1659633303"
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Blendrahmen PVC-U",-,-,-,"0,4229270998","0,4229270998"
+"1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Dreifachverglasung",-,-,-,"0,4749094445","0,4749094445"

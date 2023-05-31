@@ -1,0 +1,314 @@
+[
+    {
+        "template_name": "Außenwand Gaube Holzrahmenbau Schieferverkleidung Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402016",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.\nGaubenausbauwand inkl. Schalung_Lattung_Konstruktionsvollholz_je 24mm_Unterspannbahn_Mineralwolle_120mm_Gipskartonplatte_Innenfarbe_Schiefer (EPD Datensatz)",
+        "public": false,
+        "U-Value": "0,119"
+    },
+    {
+        "template_name": "Außenwand Holzmassivbau Holzverkleidung KfW 55 Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402024",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nNadelschnittholz - getrocknet (Durchschnitt DE), 50,00mm\n3\nZellulosefaserplatten, 50,00mm\n4\nBrettschichtholz - Standardformen (Durchschnitt DE), 130,00mm\n5\nZellulosefaserplatten, 60,00mm\n6\nKonstruktionsvollholz (Durchschnitt DE), 60,00mm\n7\nZellulosefaserplatten, 60,00mm\n8\nKonstruktionsvollholz (Durchschnitt DE), 60,00mm\n9\nEPS-Hartschaum (Styropor ®) für Wände und Dächer W/D-035, 110,00mm\n10\nMitteldichte Faserplatte (MDF), 15,00mm\n11\neLCA Luftschicht, 30,00mm\n12\nNadelschnittholz - getrocknet (Durchschnitt DE), 30,00mm\n13\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 20,00mm",
+        "public": false,
+        "U-Value": "0,12"
+    },
+    {
+        "template_name": "Außenwand Holzmassivbau Holzverkleidung Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402032",
+        "description": "hinterlüftet/belüftet\nbasierend auf awmhhi02a",
+        "public": false,
+        "U-Value": "0,09"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau Baustroh Lehmputz Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402041",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "0,121"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau Holzverkleidung KfW 55 Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2731916",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.\nIn Anlehnung an IBO_AW_01",
+        "public": false,
+        "U-Value": "0,12"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau Holzverkleidung Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402053",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.\nIn Anlehnung an IBO_AW_01",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Außenwand Holzrahmenbau verputzt Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402061",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.\nIn Anlehnung an IBO_AWi_02",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Außenwand Mauerwerk erdberührt Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402069",
+        "description": "erdberührt",
+        "public": false,
+        "U-Value": "0,119"
+    },
+    {
+        "template_name": "Außenwand zweischaliges Mauerwerk hinterlüftet Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402077",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.",
+        "public": false,
+        "U-Value": "0,118"
+    },
+    {
+        "template_name": "Außenwand zweischaliges Mauerwerk Kerndämmung Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402085",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.",
+        "public": false,
+        "U-Value": "0,119"
+    },
+    {
+        "template_name": "AW Mauerwerk KfW 55 Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2402093",
+        "description": "1\nInnenfarbe Dispersionsfarbe scheuerfest, 0,30mm\n2\nGipsputz (Gips), 20,00mm\n3\nKalksandstein Mix, 240,00mm\n4\nArmierung (Kunstharzspachtel), 2,00mm\n5\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 160,00mm\n6\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 120,00mm\n7\nArmierung (Kunstharzspachtel), 4,00mm\n8\nKunstharzputz, 2,00mm",
+        "public": false,
+        "U-Value": "0,12"
+    },
+    {
+        "template_name": "timber wall Sanierung",
+        "CG_DIN_276": "330",
+        "UUID": "2795645",
+        "description": "1\nGipskartonplatte (Feuerschutz), 12,50mm\n2\nGipskartonplatte (Feuerschutz), 12,50mm\n3\nMineralwolle (Innenausbau-Dämmung), 100,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n5\nOriented Strand Board (Durchschnitt DE), 18,00mm\n6\nMineralwolle (Fassaden-Dämmung), 180,00mm\n7\nKonstruktionsvollholz (Durchschnitt DE), 180,00mm\n8\nMineralwolle (Fassaden-Dämmung), 100,00mm\n9\nKonstruktionsvollholz (Durchschnitt DE), 100,00mm\n10\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm\n11\nSchnittholz Lärche (12% Feuchte/10,7% H2O), 25,00mm",
+        "public": false,
+        "U-Value": "0,116"
+    },
+    {
+        "template_name": "concrete roof Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2794961",
+        "description": "Dämmung 12 cm (WLS 035) auf Betondecke",
+        "public": false,
+        "U-Value": "0,23"
+    },
+    {
+        "template_name": "Dachterrasse Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402101",
+        "description": "Innenfarbe Dispersionsfarbe scheuerfest, 0,10mm/\nGipskartonplatte (Feuerschutz), 12,50mm/\nGipskartonplatte (Feuerschutz), 12,50mm/\nStahl Feinblech (0,3-3,0mm), 50,00mm/\neLCA Luftschicht, 50,00mm/\nBrettsperrholz (Durchschnitt DE), 130,00mm/\nBitumenbahnen PYE PV 200 S5 (ungeschiefert), 1,00mm/\nXPS-Dämmstoff, 300,00mm/\nXPS-Dämmstoff, 50,00mm/\nPE-HD mit PP-Vlies zur Abdichtung, 1,00mm/\nKies 2/32 getrocknet, 60,00mm",
+        "public": false,
+        "U-Value": "0,095"
+    },
+    {
+        "template_name": "Fachdach unbelüftet, begehbar Stb. Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402108",
+        "description": "Transportbeton C20/25, 200,00mm/\nBewehrungsstahl, 200,00mm/\nDampfbremse PET gitterverstärkt, 1,00mm/\nPolyethylen-Schaum, 5,00mm/\nEPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 120,00mm/\nBitumen Kaltkleber (60% bitumen, 23%LM, 17% Wasser), 10,00mm/\nKunststoffprofil CR (Chloropren-Kautschuk), 10,00mm/\nKies 2/32, 30,00mm/\nNatursteinplatte, hart, Außenbereich, 50,00mm",
+        "public": false,
+        "U-Value": "0,099"
+    },
+    {
+        "template_name": "Flachdach belüftet Holzrahmenbau Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402115",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Flachdach unbelüftet Stb. Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402122",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.\nIn Anlehnung an IBO_DAm_07",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Gründach belüftet Holzrahmenbau KfW 55 Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402132",
+        "description": "1\nKnauf - Gipskartonplatten GKB - Bauplatte 12,5 mm (680 kg/m³ u. 8,5 kg/m²), 12,50mm\n2\nKonstruktionsvollholz (Durchschnitt DE), 240,00mm\n3\nZellulosefaserplatten, 240,00mm\n4\nKonstruktionsvollholz (Durchschnitt DE), 120,00mm\n5\nZellulosefaserplatten, 120,00mm\n6\nKonstruktionsvollholz (Durchschnitt DE), 140,00mm\n7\nMineralwolle (Flachdach-Dämmung), 140,00mm\n8\nUnterspannbahn PP, 0,20mm\n9\nNadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm\n10\neLCA Luftschicht, 80,00mm\n11\nNadelschnittholz - getrocknet (Durchschnitt DE), 24,00mm\n12\nDachbahnen EPDM, 2,00mm\n13\nFolie für Gründach, 7,00mm\n14\nLava Körnung, 60,00mm\n15\nPE/PP Vlies, 0,50mm\n16\nSand 0/2, 100,00mm",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Gründach belüftet Holzrahmenbau Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402141",
+        "description": "Innenfarbe Dispersionsfarbe scheuerfest, 0,10mm/\nGipskartonplatte (Feuerschutz), 12,50mm/\nGipskartonplatte (Feuerschutz), 12,50mm/\nStahl Feinblech (0,3-3,0mm), 50,00mm/\neLCA Luftschicht, 50,00mm/\nNadelschnittholz - getrocknet (Durchschnitt DE), 200,00mm/\nZellulosefaserplatten, 200,00mm/\nUnterspannbahn PP, 0,20mm/\nNadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm/\neLCA Luftschicht, 80,00mm/\nNadelschnittholz - getrocknet (Durchschnitt DE), 24,00mm/\nDachbahnen EPDM, 2,00mm/\nNedZink Naturel, 0,40mm",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Gründach extensiv Holzmassivbau Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402150",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Gründach extensiv Stb. KfW 55 Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402158",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "0,098"
+    },
+    {
+        "template_name": "Gründach extensiv Stb. Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402166",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "Sparrendach unbelüftet Zwischensparrendämmung Ziegel Sanierung",
+        "CG_DIN_276": "360",
+        "UUID": "2402170",
+        "description": "Beispieldatensatz, im Projekt bitte anpassen.",
+        "public": false,
+        "U-Value": "0,1"
+    },
+    {
+        "template_name": "1.88 m² aluminum window Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2795496",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster doppeltverglast Aluminiumrahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709482",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster doppeltverglast PVC-Rahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709484",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709486",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Blendrahmen PVC-U, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster einfachverglast Aluminiumrahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709488",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1,88 m² Fenster einfachverglast PVC-Rahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709490",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster doppeltverglast Aluminiumrahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709472",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster doppeltverglast PVC-Rahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709474",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709476",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Blendrahmen PVC-U, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster einfachverglast Aluminiumrahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709478",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "1 m² Fenster einfachverglast PVC-Rahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709480",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast Aluminiumrahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709492",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster doppeltverglast PVC-Rahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709494",
+        "description": "no information in eLCA",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2732188",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Blendrahmen PVC-U, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster einfachverglast Aluminiumrahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709498",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    },
+    {
+        "template_name": "2 m² Fenster einfachverglast PVC-Rahmen Sanierung",
+        "CG_DIN_276": "334",
+        "UUID": "2709500",
+        "description": "Fugendichtungsbänder PE/PP-Folie, Aluminium-Rahmenprofil, Dreifachverglasung",
+        "public": false,
+        "U-Value": "no information in eLCA"
+    }
+]

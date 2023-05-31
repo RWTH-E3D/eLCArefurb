@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elca xmlns="https://www.bauteileditor.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.bauteileditor.de https://www.bauteileditor.de/docs/1.3/elca_export.xsd" schemaVersion="1.3">
+  <project processDbUuid="2996a689-b1ec-4b3b-a672-0c3a02afaa3d" lifeTime="50" constrMeasure="1" constrClassRefNum="6111">
+    <projectInfo>
+      <name><![CDATA[C Komplettsanierung]]></name>
+      <description><![CDATA[]]></description>
+      <projectNr><![CDATA[]]></projectNr>
+    </projectInfo>
+    <projectVariants>
+      <variant phaseIdent="VORPL" isCurrent="true">
+        <name><![CDATA[Vorplanung]]></name>
+        <location>
+          <street><![CDATA[]]></street>
+          <postcode>12345</postcode>
+          <city><![CDATA[]]></city>
+          <country><![CDATA[]]></country>
+        </location>
+        <construction isExtantBuilding="true">
+          <grossFloorSpace>167.41</grossFloorSpace>
+          <netFloorSpace>139.13</netFloorSpace>
+          <floorSpace/>
+          <propertySize/>
+          <livingSpace/>
+        </construction>
+        <elements>
+          <composite uuid="4317191b-5904-43e2-a169-1a8ea548076b" din276Code="330" quantity="197" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[AW Mauerwerk KfW 55 Sanierung]]></name>
+              <description><![CDATA[1
+Innenfarbe Dispersionsfarbe scheuerfest, 0,30mm
+2
+Gipsputz (Gips), 20,00mm
+3
+Kalksandstein Mix, 240,00mm
+4
+Armierung (Kunstharzspachtel), 2,00mm
+5
+EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 160,00mm
+6
+EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035, 120,00mm
+7
+Armierung (Kunstharzspachtel), 4,00mm
+8
+Kunstharzputz, 2,00mm]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="03cbd5f6-6b03-450a-a095-2b14222c43ea"/>
+              <referenceToElement position="2" uuid="d37e3c52-8a11-4c8f-9467-6a1e038ab486"/>
+              <referenceToElement position="3" uuid="af719e54-9601-41ee-8ebe-d262a2d1e63a"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+                <numericValue>0.12</numericValue>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="03cbd5f6-6b03-450a-a095-2b14222c43ea" din276Code="336" quantity="197" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Gips-Putz/Anstrich (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="78b4237f-39ce-509c-8ef1-cd3ef145d71f" processConfigName="Innenfarbe Dispersionsfarbe scheuerfest" lifeTime="15" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.0003" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="cf4e55b6-ef4b-5569-8979-4b85b4cdb285" processConfigName="Gipsputz (Gips)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="2" layerSize="0.02" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="d37e3c52-8a11-4c8f-9467-6a1e038ab486" din276Code="331" quantity="197" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Kalksandstein 24cm (Importiert)]]></name>
+              <description><![CDATA[KSV 24cm]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="5dd53be9-cec9-4782-b324-700aefbcaf64" processConfigName="Kalksandstein Mix" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.24" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="af719e54-9601-41ee-8ebe-d262a2d1e63a" din276Code="335" quantity="197" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[WDVS (Roe) (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="43ab0b82-a170-5c93-9c66-e874eeecff6e" processConfigName="Armierung (Kunstharzspachtel)" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="02d4303a-d93e-4cc0-94e7-7f6f58a39396" processConfigName="EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="4" layerSize="0.16" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="43ab0b82-a170-5c93-9c66-e874eeecff6e" processConfigName="Armierung (Kunstharzspachtel)" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="7" layerSize="0.002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="02d4303a-d93e-4cc0-94e7-7f6f58a39396" processConfigName="EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="10" layerSize="0.12" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="43ab0b82-a170-5c93-9c66-e874eeecff6e" processConfigName="Armierung (Kunstharzspachtel)" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="13" layerSize="0.004" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="04901aa6-1f51-5c02-aea3-7084f8f95323" processConfigName="Kunstharzputz" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="16" layerSize="0.002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="44058bb8-394b-463e-98b1-f6dfc117d0b7" din276Code="334" quantity="14" refUnit="Stück">
+            <elementInfo>
+              <name><![CDATA[2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung]]></name>
+              <description><![CDATA[Fugendichtungsbänder PE/PP-Folie, Blendrahmen PVC-U, Dreifachverglasung]]></description>
+            </elementInfo>
+            <assistant ident="window-assistant" uuid="c5da6b35-5190-4d22-be3a-f0ca4c86ecf4">
+              <config><![CDATA[TzozNDoiRWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdyI6MTU6e3M6NDA6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AG5hbWUiO3M6NzI6IjIgbcKyIEZlbnN0ZXIgZHJlaWZhY2h2ZXJnbGFzdCBBbHVtaW5pdW1yYWhtZW4gS2ZXIDU1IFN0YW5kYXJkIFNhbmllcnVuZyI7czo0NDoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAYm91bmRhcnkiO086MzY6IkVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZSI6Mjp7czo0MzoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQB3aWR0aCI7ZDoyO3M6NDQ6IgBFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUAaGVpZ2h0IjtkOjE7fXM6NDM6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AHNlYWxpbmciO086MzM6IkVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZSI6Mzp7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBmcmFtZVdpZHRoIjtkOjAuMDI7czo0ODoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBvdXRlckJvdW5kYXJ5IjtPOjM2OiJFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUiOjI6e3M6NDM6IgBFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUAd2lkdGgiO2Q6Mi4wNDtzOjQ0OiIARWxjYVxNb2RlbFxDb21tb25cR2VvbWV0cnlcUmVjdGFuZ2xlAGhlaWdodCI7ZDoxLjA0O31zOjQ1OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAG1hdGVyaWFsSWQiO3M6NToiMTUyMzkiO31zOjQ2OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBmaXhlZEZyYW1lIjtPOjM4OiJFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZSI6MTU6e3M6NDU6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlcyI7YToxOntpOjA7YToxOntpOjA7TzozMzoiRWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lIjozOntzOjQ1OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAGZyYW1lV2lkdGgiO2k6MDtzOjQ4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAG91dGVyQm91bmRhcnkiO086MzY6IkVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZSI6Mjp7czo0MzoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQB3aWR0aCI7ZDoxLjg1OTk5OTk5OTk5OTk5OTk7czo0NDoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQBoZWlnaHQiO2Q6MC44Njt9czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBtYXRlcmlhbElkIjtOO319fXM6NTY6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQBudW1iZXJPZk11bGxpb25zIjtpOjA7czo1NjoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAG51bWJlck9mVHJhbnNvbXMiO2k6MDtzOjUzOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAdG9wTGlnaHRGcmFtZSI7TjtzOjUxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAaGFzVG9wTGlnaHQiO2I6MDtzOjY4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAaGFzSW5kaXZpZHVhbEZyYW1lRGltZW5zaW9ucyI7YjowO3M6NTQ6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0b3BMaWdodEhlaWdodCI7aTowO3M6NTA6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlV2lkdGhzIjtOO3M6NTE6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlSGVpZ2h0cyI7TjtzOjYxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAZml4ZWRNdWxsaW9uc1RyYW5zb21zIjtiOjA7czo1OToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAHNhc2hGcmFtZU1hdGVyaWFsSWQiO047czo1NDoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAHNhc2hGcmFtZVdpZHRoIjtpOjA7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBmcmFtZVdpZHRoIjtkOjAuMDc7czo0ODoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBvdXRlckJvdW5kYXJ5IjtyOjM7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBtYXRlcmlhbElkIjtzOjU6IjE1MjMwIjt9czo0NjoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc2lsbEluZG9vciI7TjtzOjQ3OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBzaWxsT3V0ZG9vciI7TjtzOjQ4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBzb2ZmaXRJbmRvb3IiO047czo0OToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc29mZml0T3V0ZG9vciI7TjtzOjQzOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBoYW5kbGVzIjtOO3M6NDQ6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AGZpdHRpbmdzIjtOO3M6NTE6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AGdsYXNzTWF0ZXJpYWxJZCI7czo1OiIxNjk0MCI7czo2MToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc3Vuc2NyZWVuSW5kb29yTWF0ZXJpYWxJZCI7TjtzOjYyOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBzdW5zY3JlZW5PdXRkb29yTWF0ZXJpYWxJZCI7TjtzOjE2OiJudW1iZXJPZk11bGxpb25zIjtpOjA7czoxNjoibnVtYmVyT2ZUcmFuc29tcyI7aTowO30=]]></config>
+              <element><![CDATA[window]]></element>
+            </assistant>
+            <components>
+              <component isLayer="false" processConfigUuid="2179c99a-a937-41e3-bedc-2073d370b6f7" processConfigName="Dreifachverglasung" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="1.5996" conversionInUnit="m2" conversionOutUnit="m2" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="false" processConfigUuid="1dccbc89-13f1-5bed-a5cc-93f733240818" processConfigName="Blendrahmen PVC-U" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="5.72" conversionInUnit="m" conversionOutUnit="m" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="true" processConfigUuid="03f31790-6311-5be2-807d-a9d51ed2c1b1" processConfigName="Fugendichtungsbänder PE/PP-Folie" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.05" layerAreaRatio="0.057315233785822" layerLength="2.04" layerWidth="1.04">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <composite uuid="002f377b-f298-4295-a339-02ddab657290" din276Code="360" quantity="88.46" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Gründach extensiv Stb. KfW 55 Sanierung]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="ec832972-8597-4547-9cd2-dfa117638eb1"/>
+              <referenceToElement position="2" uuid="5b7578ba-9f02-49db-a240-0616ec830e07"/>
+              <referenceToElement position="3" uuid="b2b937e9-bae8-4ad0-bfed-95f036981c2c"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+                <numericValue>0.098</numericValue>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="ec832972-8597-4547-9cd2-dfa117638eb1" din276Code="364" quantity="88.46" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Gipskarton abgehangen (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="78b4237f-39ce-509c-8ef1-cd3ef145d71f" processConfigName="Innenfarbe Dispersionsfarbe scheuerfest" lifeTime="15" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.0001" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="f53e7c00-7194-5f47-88e1-281098dd5027" processConfigName="Gipskartonplatte (Feuerschutz)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="4" layerSize="0.0125" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="f53e7c00-7194-5f47-88e1-281098dd5027" processConfigName="Gipskartonplatte (Feuerschutz)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="7" layerSize="0.0125" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="76d9cfc8-1351-59dd-89cc-30373498eb86" processConfigName="Stahl Feinblech (0,3-3,0mm)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="10" layerSize="0.05" layerAreaRatio="0.02" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="0aa285e8-56e9-4b8f-82b5-b264b02f287b" processConfigName="eLCA Luftschicht" lifeTime="100" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="10" layerSize="0.05" layerAreaRatio="0.98" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="5b7578ba-9f02-49db-a240-0616ec830e07" din276Code="361" quantity="88.46" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Stahlbeton (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <siblings>
+                <component isLayer="true" processConfigUuid="fa97d434-c8de-5726-a472-c820203154ca" processConfigName="Bewehrungsstahl" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.2" layerAreaRatio="0.04" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="7bda7742-18c1-527c-a48e-84e193b3355c" processConfigName="Transportbeton C20/25" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.2" layerAreaRatio="0.96" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="b2b937e9-bae8-4ad0-bfed-95f036981c2c" din276Code="363" quantity="88.46" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Extensivbegrünung (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="7884b7d6-70e8-54a5-aa85-ad7c3b0b3fc4" processConfigName="Zellulosefaserplatten" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.27" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="02d4303a-d93e-4cc0-94e7-7f6f58a39396" processConfigName="EPS-Hartschaum (Styropor ®) für Decken/Böden und als Perimeterdämmung B/P-035" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.1" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="0df7fc65-1818-5f30-a5b0-611395684328" processConfigName="Dachbahnen EPDM" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="3" layerSize="0.0001" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="ffc515b0-e193-54b3-ac65-a85dab4160aa" processConfigName="Folie für Gründach" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="4" layerSize="0.007" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="e2764c18-b588-5ae6-904c-2718eb2ea115" processConfigName="Lava Körnung" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="5" layerSize="0.06" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="4d11379e-0636-537c-be2a-96fd86de4775" processConfigName="PE/PP Vlies" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="6" layerSize="0.0005" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="79ec405c-ec6c-5423-9c03-b7c0b3e8e7b2" processConfigName="Sand 0/2" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="7" layerSize="0.1" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+        </elements>
+        <finalEnergyDemands ngfEnEv="139.13" enEvVersion="0">
+          <finalEnergyDemand processConfigUuid="6904237b-4a59-5aa3-a82c-b7e8e0bdc6cb" processConfigName="Strom-Wärmepumpe Sole-Wasser (0/35)">
+            <heating>48.44</heating>
+            <water>20</water>
+          </finalEnergyDemand>
+        </finalEnergyDemands>
+        <attributes/>
+      </variant>
+    </projectVariants>
+    <attributes>
+      <attr ident="elca.bnb_nr">
+        <caption><![CDATA[BNB Nummer]]></caption>
+      </attr>
+      <attr ident="elca.egis_nr">
+        <caption><![CDATA[eGis Nummer]]></caption>
+      </attr>
+      <attr ident="elca.IS_LISTED">
+        <caption><![CDATA[Denkmalschutz]]></caption>
+      </attr>
+      <attr ident="elca.pw.date">
+        <caption><![CDATA[Passwort gültig seit]]></caption>
+        <textValue><![CDATA[2023-03-01]]></textValue>
+      </attr>
+    </attributes>
+  </project>
+</elca>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elca xmlns="https://www.bauteileditor.de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.bauteileditor.de https://www.bauteileditor.de/docs/1.3/elca_export.xsd" schemaVersion="1.3">
+  <project processDbUuid="2996a689-b1ec-4b3b-a672-0c3a02afaa3d" lifeTime="50" constrMeasure="1" constrClassRefNum="6111">
+    <projectInfo>
+      <name><![CDATA[B Komplettsanierung]]></name>
+      <description><![CDATA[]]></description>
+      <projectNr><![CDATA[]]></projectNr>
+    </projectInfo>
+    <projectVariants>
+      <variant phaseIdent="VORPL" isCurrent="true">
+        <name><![CDATA[Vorplanung]]></name>
+        <location>
+          <street><![CDATA[]]></street>
+          <postcode>12345</postcode>
+          <city><![CDATA[]]></city>
+          <country><![CDATA[]]></country>
+        </location>
+        <construction isExtantBuilding="true">
+          <grossFloorSpace>187.81</grossFloorSpace>
+          <netFloorSpace>162.3</netFloorSpace>
+          <floorSpace/>
+          <propertySize/>
+          <livingSpace/>
+        </construction>
+        <elements>
+          <element uuid="3831a498-966f-4af3-8065-aed811009014" din276Code="363" quantity="90.16" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Extensivbegrünung (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="ffc515b0-e193-54b3-ac65-a85dab4160aa" processConfigName="Folie für Gründach" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.007" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="e2764c18-b588-5ae6-904c-2718eb2ea115" processConfigName="Lava Körnung" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.06" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="4d11379e-0636-537c-be2a-96fd86de4775" processConfigName="PE/PP Vlies" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="3" layerSize="0.0005" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="79ec405c-ec6c-5423-9c03-b7c0b3e8e7b2" processConfigName="Sand 0/2" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="4" layerSize="0.1" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <composite uuid="7e85eb6d-e722-4fe2-bca5-065e05233ecc" din276Code="330" quantity="198.9" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Außenwand Holzrahmenbau Holzverkleidung KfW 55 Sanierung]]></name>
+              <description><![CDATA[Beispieldatensatz, im Projekt bitte anpassen.
+In Anlehnung an IBO_AW_01]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="f8fe0c7c-5a0a-48d3-aa5c-958e2bb76973"/>
+              <referenceToElement position="2" uuid="cc6f224d-6a45-49af-af40-6fee846253ac"/>
+              <referenceToElement position="3" uuid="d117228d-7e3a-41ad-84ab-f0f53e5e03a3"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+                <numericValue>0.12</numericValue>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="f8fe0c7c-5a0a-48d3-aa5c-958e2bb76973" din276Code="336" quantity="198.9" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[IBO_AW_01 (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="f53e7c00-7194-5f47-88e1-281098dd5027" processConfigName="Gipskartonplatte (Feuerschutz)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.0125" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="e6088b02-3f9b-5511-9bdf-d6b824fb5dd0" processConfigName="Dampfbremse PE" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="4" layerSize="0.0002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="b6bfeaa2-d765-5af9-884c-11113d30ec2b" processConfigName="Mineralwolle (Innenausbau-Dämmung)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="7" layerSize="0.1" layerAreaRatio="0.85" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="7" layerSize="0.1" layerAreaRatio="0.15" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="cc6f224d-6a45-49af-af40-6fee846253ac" din276Code="331" quantity="198.9" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[IBO_AW_01 (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="c7a63f95-0a62-449f-babd-f838f58acfe7" processConfigName="Oriented Strand Board (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.018" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="6c564411-0ca1-54f9-bb61-0f9db14ace19" processConfigName="Mineralwolle (Fassaden-Dämmung)" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="2" layerSize="0.12" layerAreaRatio="0.7" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="2" layerSize="0.12" layerAreaRatio="0.3" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="d117228d-7e3a-41ad-84ab-f0f53e5e03a3" din276Code="335" quantity="198.9" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[IBO_AW_01 (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <siblings>
+                <component isLayer="true" processConfigUuid="6c564411-0ca1-54f9-bb61-0f9db14ace19" processConfigName="Mineralwolle (Fassaden-Dämmung)" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.14" layerAreaRatio="0.7" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.14" layerAreaRatio="0.3" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+              <component isLayer="true" processConfigUuid="5e801362-40d5-5ed9-b4ad-588bcfbcb7cf" processConfigName="PE-HD mit PP-Vlies zur Abdichtung" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="7" layerSize="0.001" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="10" layerSize="0.03" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="0aa285e8-56e9-4b8f-82b5-b264b02f287b" processConfigName="eLCA Luftschicht" lifeTime="100" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="13" layerSize="0.03" layerAreaRatio="0.8" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="13" layerSize="0.03" layerAreaRatio="0.2" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+              <component isLayer="true" processConfigUuid="b166ca8a-3bdb-5a32-930f-c5c7b8e247cf" processConfigName="Schnittholz Lärche (12% Feuchte/10,7% H2O)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="18" layerSize="0.025" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="dccfcb72-0471-4641-ae39-fbc11b1e3111" din276Code="334" quantity="11" refUnit="Stück">
+            <elementInfo>
+              <name><![CDATA[2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung]]></name>
+              <description><![CDATA[Fugendichtungsbänder PE/PP-Folie, Blendrahmen PVC-U, Dreifachverglasung]]></description>
+            </elementInfo>
+            <assistant ident="window-assistant" uuid="84b6603d-24c9-462e-a18f-f93798e31f95">
+              <config><![CDATA[TzozNDoiRWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdyI6MTU6e3M6NDA6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AG5hbWUiO3M6NzI6IjIgbcKyIEZlbnN0ZXIgZHJlaWZhY2h2ZXJnbGFzdCBBbHVtaW5pdW1yYWhtZW4gS2ZXIDU1IFN0YW5kYXJkIFNhbmllcnVuZyI7czo0NDoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAYm91bmRhcnkiO086MzY6IkVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZSI6Mjp7czo0MzoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQB3aWR0aCI7ZDoyO3M6NDQ6IgBFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUAaGVpZ2h0IjtkOjE7fXM6NDM6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AHNlYWxpbmciO086MzM6IkVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZSI6Mzp7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBmcmFtZVdpZHRoIjtkOjAuMDI7czo0ODoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBvdXRlckJvdW5kYXJ5IjtPOjM2OiJFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUiOjI6e3M6NDM6IgBFbGNhXE1vZGVsXENvbW1vblxHZW9tZXRyeVxSZWN0YW5nbGUAd2lkdGgiO2Q6Mi4wNDtzOjQ0OiIARWxjYVxNb2RlbFxDb21tb25cR2VvbWV0cnlcUmVjdGFuZ2xlAGhlaWdodCI7ZDoxLjA0O31zOjQ1OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAG1hdGVyaWFsSWQiO3M6NToiMTUyMzkiO31zOjQ2OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBmaXhlZEZyYW1lIjtPOjM4OiJFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZSI6MTU6e3M6NDU6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlcyI7YToxOntpOjA7YToxOntpOjA7TzozMzoiRWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lIjozOntzOjQ1OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAGZyYW1lV2lkdGgiO2k6MDtzOjQ4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZyYW1lAG91dGVyQm91bmRhcnkiO086MzY6IkVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZSI6Mjp7czo0MzoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQB3aWR0aCI7ZDoxLjg1OTk5OTk5OTk5OTk5OTk7czo0NDoiAEVsY2FcTW9kZWxcQ29tbW9uXEdlb21ldHJ5XFJlY3RhbmdsZQBoZWlnaHQiO2Q6MC44Njt9czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBtYXRlcmlhbElkIjtOO319fXM6NTY6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQBudW1iZXJPZk11bGxpb25zIjtpOjA7czo1NjoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAG51bWJlck9mVHJhbnNvbXMiO2k6MDtzOjUzOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAdG9wTGlnaHRGcmFtZSI7TjtzOjUxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAaGFzVG9wTGlnaHQiO2I6MDtzOjY4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAaGFzSW5kaXZpZHVhbEZyYW1lRGltZW5zaW9ucyI7YjowO3M6NTQ6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0b3BMaWdodEhlaWdodCI7aTowO3M6NTA6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlV2lkdGhzIjtOO3M6NTE6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcRml4ZWRGcmFtZQB0aWxlSGVpZ2h0cyI7TjtzOjYxOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XEZpeGVkRnJhbWUAZml4ZWRNdWxsaW9uc1RyYW5zb21zIjtiOjA7czo1OToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAHNhc2hGcmFtZU1hdGVyaWFsSWQiO047czo1NDoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGaXhlZEZyYW1lAHNhc2hGcmFtZVdpZHRoIjtpOjA7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBmcmFtZVdpZHRoIjtkOjAuMDc7czo0ODoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBvdXRlckJvdW5kYXJ5IjtyOjM7czo0NToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xGcmFtZQBtYXRlcmlhbElkIjtzOjU6IjE1MjMwIjt9czo0NjoiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc2lsbEluZG9vciI7TjtzOjQ3OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBzaWxsT3V0ZG9vciI7TjtzOjQ4OiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBzb2ZmaXRJbmRvb3IiO047czo0OToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc29mZml0T3V0ZG9vciI7TjtzOjQzOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBoYW5kbGVzIjtOO3M6NDQ6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AGZpdHRpbmdzIjtOO3M6NTE6IgBFbGNhXE1vZGVsXEFzc2lzdGFudFxXaW5kb3dcV2luZG93AGdsYXNzTWF0ZXJpYWxJZCI7czo1OiIxNjk0MCI7czo2MToiAEVsY2FcTW9kZWxcQXNzaXN0YW50XFdpbmRvd1xXaW5kb3cAc3Vuc2NyZWVuSW5kb29yTWF0ZXJpYWxJZCI7TjtzOjYyOiIARWxjYVxNb2RlbFxBc3Npc3RhbnRcV2luZG93XFdpbmRvdwBzdW5zY3JlZW5PdXRkb29yTWF0ZXJpYWxJZCI7TjtzOjE2OiJudW1iZXJPZk11bGxpb25zIjtpOjA7czoxNjoibnVtYmVyT2ZUcmFuc29tcyI7aTowO30=]]></config>
+              <element><![CDATA[window]]></element>
+            </assistant>
+            <components>
+              <component isLayer="false" processConfigUuid="2179c99a-a937-41e3-bedc-2073d370b6f7" processConfigName="Dreifachverglasung" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="1.5996" conversionInUnit="m2" conversionOutUnit="m2" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="false" processConfigUuid="1dccbc89-13f1-5bed-a5cc-93f733240818" processConfigName="Blendrahmen PVC-U" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="false" quantity="5.72" conversionInUnit="m" conversionOutUnit="m" conversionFactor="1">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+              <component isLayer="true" processConfigUuid="03f31790-6311-5be2-807d-a9d51ed2c1b1" processConfigName="Fugendichtungsbänder PE/PP-Folie" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.05" layerAreaRatio="0.057315233785822" layerLength="2.04" layerWidth="1.04">
+                <attributes>
+                  <attr ident="window-assistant"/>
+                </attributes>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <composite uuid="d7a52289-5bf2-45b0-b07f-cad2ecdf6b59" din276Code="360" quantity="90.16" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Gründach belüftet Holzrahmenbau KfW 55 Sanierung]]></name>
+              <description><![CDATA[1
+Knauf - Gipskartonplatten GKB - Bauplatte 12,5 mm (680 kg/m³ u. 8,5 kg/m²), 12,50mm
+2
+Konstruktionsvollholz (Durchschnitt DE), 240,00mm
+3
+Zellulosefaserplatten, 240,00mm
+4
+Konstruktionsvollholz (Durchschnitt DE), 120,00mm
+5
+Zellulosefaserplatten, 120,00mm
+6
+Konstruktionsvollholz (Durchschnitt DE), 140,00mm
+7
+Mineralwolle (Flachdach-Dämmung), 140,00mm
+8
+Unterspannbahn PP, 0,20mm
+9
+Nadelschnittholz - getrocknet (Durchschnitt DE), 80,00mm
+10
+eLCA Luftschicht, 80,00mm
+11
+Nadelschnittholz - getrocknet (Durchschnitt DE), 24,00mm
+12
+Dachbahnen EPDM, 2,00mm
+13
+Folie für Gründach, 7,00mm
+14
+Lava Körnung, 60,00mm
+15
+PE/PP Vlies, 0,50mm
+16
+Sand 0/2, 100,00mm]]></description>
+            </elementInfo>
+            <elements>
+              <referenceToElement position="1" uuid="74643b49-dc2f-416e-9f95-9dad48c55bcd"/>
+              <referenceToElement position="2" uuid="a5838990-22c3-49b5-b4aa-48511b78b803"/>
+              <referenceToElement position="3" uuid="3831a498-966f-4af3-8065-aed811009014"/>
+            </elements>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+                <numericValue>0.1</numericValue>
+              </attr>
+            </attributes>
+          </composite>
+          <element uuid="74643b49-dc2f-416e-9f95-9dad48c55bcd" din276Code="361" quantity="90.16" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Holzrahmen - Dämmung (Importiert)]]></name>
+              <description><![CDATA[]]></description>
+            </elementInfo>
+            <components>
+              <component isLayer="true" processConfigUuid="949e317a-4160-4c46-8f33-ed4db79511a6" processConfigName="Knauf - Gipskartonplatten GKB - Bauplatte 12,5 mm (680 kg/m³ u. 8,5 kg/m²)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="1" layerSize="0.0125" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="4" layerSize="0.24" layerAreaRatio="0.2" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="7884b7d6-70e8-54a5-aa85-ad7c3b0b3fc4" processConfigName="Zellulosefaserplatten" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="4" layerSize="0.24" layerAreaRatio="0.8" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+              <siblings>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="5" layerSize="0.12" layerAreaRatio="0.2" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="7884b7d6-70e8-54a5-aa85-ad7c3b0b3fc4" processConfigName="Zellulosefaserplatten" lifeTime="40" lifeTimeDelay="0" calcLca="true" isExtant="true" layerPosition="5" layerSize="0.12" layerAreaRatio="0.8" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+          <element uuid="a5838990-22c3-49b5-b4aa-48511b78b803" din276Code="363" quantity="90.16" refUnit="m2">
+            <elementInfo>
+              <name><![CDATA[Holzrahmen belüftet (Importiert)]]></name>
+              <description><![CDATA[Lattung 30/50]]></description>
+            </elementInfo>
+            <components>
+              <siblings>
+                <component isLayer="true" processConfigUuid="66503991-601a-41d0-8610-6488789d156b" processConfigName="Konstruktionsvollholz (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.14" layerAreaRatio="0.2" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="6f6698fd-f716-5a2d-a003-8bdd973dcf2b" processConfigName="Mineralwolle (Flachdach-Dämmung)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="1" layerSize="0.14" layerAreaRatio="0.8" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+              <component isLayer="true" processConfigUuid="6b536a0d-e19a-54cc-9021-a162e94f3bac" processConfigName="Unterspannbahn PP" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="2" layerSize="0.0002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <siblings>
+                <component isLayer="true" processConfigUuid="b39bde9c-d169-4f52-98aa-d1f4e3bc4a18" processConfigName="Nadelschnittholz - getrocknet (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="3" layerSize="0.08" layerAreaRatio="0.2" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+                <component isLayer="true" processConfigUuid="0aa285e8-56e9-4b8f-82b5-b264b02f287b" processConfigName="eLCA Luftschicht" lifeTime="100" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="3" layerSize="0.08" layerAreaRatio="0.8" layerLength="1" layerWidth="1">
+                  <attributes/>
+                </component>
+              </siblings>
+              <component isLayer="true" processConfigUuid="b39bde9c-d169-4f52-98aa-d1f4e3bc4a18" processConfigName="Nadelschnittholz - getrocknet (Durchschnitt DE)" lifeTime="50" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="4" layerSize="0.024" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+              <component isLayer="true" processConfigUuid="0df7fc65-1818-5f30-a5b0-611395684328" processConfigName="Dachbahnen EPDM" lifeTime="30" lifeTimeDelay="0" calcLca="true" isExtant="false" layerPosition="5" layerSize="0.002" layerAreaRatio="1" layerLength="1" layerWidth="1">
+                <attributes/>
+              </component>
+            </components>
+            <constrCatalogs/>
+            <constrDesigns/>
+            <attributes>
+              <attr ident="elca.bnb.eol">
+                <caption><![CDATA[Rückbau]]></caption>
+              </attr>
+              <attr ident="elca.bnb.recycling">
+                <caption><![CDATA[Verwertung]]></caption>
+              </attr>
+              <attr ident="elca.bnb.separation">
+                <caption><![CDATA[Trennung]]></caption>
+              </attr>
+              <attr ident="elca.oz">
+                <caption><![CDATA[OZ]]></caption>
+              </attr>
+              <attr ident="elca.rW">
+                <caption><![CDATA[R'w]]></caption>
+              </attr>
+              <attr ident="elca.uValue">
+                <caption><![CDATA[U-Wert]]></caption>
+              </attr>
+            </attributes>
+          </element>
+        </elements>
+        <finalEnergyDemands ngfEnEv="162.3" enEvVersion="0">
+          <finalEnergyDemand processConfigUuid="6904237b-4a59-5aa3-a82c-b7e8e0bdc6cb" processConfigName="Strom-Wärmepumpe Sole-Wasser (0/35)">
+            <heating>48.44</heating>
+            <water>20</water>
+          </finalEnergyDemand>
+        </finalEnergyDemands>
+        <attributes/>
+      </variant>
+    </projectVariants>
+    <attributes>
+      <attr ident="elca.bnb_nr">
+        <caption><![CDATA[BNB Nummer]]></caption>
+      </attr>
+      <attr ident="elca.egis_nr">
+        <caption><![CDATA[eGis Nummer]]></caption>
+      </attr>
+      <attr ident="elca.IS_LISTED">
+        <caption><![CDATA[Denkmalschutz]]></caption>
+      </attr>
+      <attr ident="elca.pw.date">
+        <caption><![CDATA[Passwort gültig seit]]></caption>
+        <textValue><![CDATA[2023-03-01]]></textValue>
+      </attr>
+    </attributes>
+  </project>
+</elca>

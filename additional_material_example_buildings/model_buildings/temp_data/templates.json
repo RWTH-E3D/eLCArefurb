@@ -1,0 +1,744 @@
+[
+    {
+        "Name": "Außenwand Gaube Holzrahmenbau Schieferverkleidung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402020"
+    },
+    {
+        "Name": "Außenwand Gaube Holzrahmenbau Schieferverkleidung Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402016"
+    },
+    {
+        "Name": "Außenwand Holzmassivbau Holzverkleidung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402036"
+    },
+    {
+        "Name": "Außenwand Holzmassivbau Holzverkleidung KfW 55",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402028"
+    },
+    {
+        "Name": "Außenwand Holzmassivbau Holzverkleidung KfW 55 Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402024"
+    },
+    {
+        "Name": "Außenwand Holzmassivbau Holzverkleidung Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402032"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau Baustroh Lehmputz",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402045"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau Baustroh Lehmputz Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402041"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau Holzverkleidung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402057"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau Holzverkleidung KfW 55",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2731920"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau Holzverkleidung KfW 55 Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2731916"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau Holzverkleidung Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402053"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau verputzt",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402065"
+    },
+    {
+        "Name": "Außenwand Holzrahmenbau verputzt Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402061"
+    },
+    {
+        "Name": "Außenwand Mauerwerk erdberührt",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402073"
+    },
+    {
+        "Name": "Außenwand Mauerwerk erdberührt Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402069"
+    },
+    {
+        "Name": "Außenwand zweischaliges Mauerwerk hinterlüftet",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402081"
+    },
+    {
+        "Name": "Außenwand zweischaliges Mauerwerk hinterlüftet Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402077"
+    },
+    {
+        "Name": "Außenwand zweischaliges Mauerwerk Kerndämmung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402089"
+    },
+    {
+        "Name": "Außenwand zweischaliges Mauerwerk Kerndämmung Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402085"
+    },
+    {
+        "Name": "AW Mauerwerk KfW 55",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402097"
+    },
+    {
+        "Name": "AW Mauerwerk KfW 55 Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402093"
+    },
+    {
+        "Name": "timber wall",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2795640"
+    },
+    {
+        "Name": "timber wall Sanierung",
+        "KG DIN 276": "330",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2795645"
+    },
+    {
+        "Name": "concrete roof",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2794958"
+    },
+    {
+        "Name": "concrete roof Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2794961"
+    },
+    {
+        "Name": "Dach 1",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518142"
+    },
+    {
+        "Name": "Dach 10",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518171"
+    },
+    {
+        "Name": "Dach 11",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518174"
+    },
+    {
+        "Name": "Dach 12",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2529324"
+    },
+    {
+        "Name": "Dach 13",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518178"
+    },
+    {
+        "Name": "Dach 2",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518145"
+    },
+    {
+        "Name": "Dach 3",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518148"
+    },
+    {
+        "Name": "Dach 4",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518151"
+    },
+    {
+        "Name": "Dach 7",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518162"
+    },
+    {
+        "Name": "Dach 8",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518165"
+    },
+    {
+        "Name": "Dach 9",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2518168"
+    },
+    {
+        "Name": "Dachterrasse",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402105"
+    },
+    {
+        "Name": "Dachterrasse Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402101"
+    },
+    {
+        "Name": "Fachdach unbelüftet, begehbar Stb.",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402111"
+    },
+    {
+        "Name": "Fachdach unbelüftet, begehbar Stb. Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402108"
+    },
+    {
+        "Name": "Flachdach belüftet Holzrahmenbau",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402119"
+    },
+    {
+        "Name": "Flachdach belüftet Holzrahmenbau Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402115"
+    },
+    {
+        "Name": "Flachdach unbelüftet Stb.",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402125"
+    },
+    {
+        "Name": "Flachdach unbelüftet Stb.",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402128"
+    },
+    {
+        "Name": "Flachdach unbelüftet Stb. Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402122"
+    },
+    {
+        "Name": "Gründach belüftet Holzrahmenbau",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402146"
+    },
+    {
+        "Name": "Gründach belüftet Holzrahmenbau KfW 55",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402136"
+    },
+    {
+        "Name": "Gründach belüftet Holzrahmenbau KfW 55 Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402132"
+    },
+    {
+        "Name": "Gründach belüftet Holzrahmenbau Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402141"
+    },
+    {
+        "Name": "Gründach extensiv Holzmassivbau",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402154"
+    },
+    {
+        "Name": "Gründach extensiv Holzmassivbau Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402150"
+    },
+    {
+        "Name": "Gründach extensiv Stb. KfW 55",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402162"
+    },
+    {
+        "Name": "Gründach extensiv Stb. KfW 55 Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402158"
+    },
+    {
+        "Name": "Gründach extensiv Stb. Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402166"
+    },
+    {
+        "Name": "Sparrendach unbelüftet Zwischensparrendämmung Ziegel",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402174"
+    },
+    {
+        "Name": "Sparrendach unbelüftet Zwischensparrendämmung Ziegel Sanierung",
+        "KG DIN 276": "360",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2402170"
+    },
+    {
+        "Name": "1.88 m² aluminum window",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2795493"
+    },
+    {
+        "Name": "1.88 m² aluminum window Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "m²",
+        "eLCA BT ID": "2795496"
+    },
+    {
+        "Name": "1,88 m² Fenster doppeltverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402180"
+    },
+    {
+        "Name": "1,88 m² Fenster doppeltverglast Aluminiumrahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709482"
+    },
+    {
+        "Name": "1,88 m² Fenster doppeltverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709485"
+    },
+    {
+        "Name": "1,88 m² Fenster doppeltverglast PVC-Rahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709484"
+    },
+    {
+        "Name": "1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2732187"
+    },
+    {
+        "Name": "1,88 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709486"
+    },
+    {
+        "Name": "1,88 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402183"
+    },
+    {
+        "Name": "1,88 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709489"
+    },
+    {
+        "Name": "1,88 m² Fenster einfachverglast Aluminiumrahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709488"
+    },
+    {
+        "Name": "1,88 m² Fenster einfachverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402184"
+    },
+    {
+        "Name": "1,88 m² Fenster einfachverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709491"
+    },
+    {
+        "Name": "1,88 m² Fenster einfachverglast PVC-Rahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709490"
+    },
+    {
+        "Name": "1 m² Fenster doppeltverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402175"
+    },
+    {
+        "Name": "1 m² Fenster doppeltverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709473"
+    },
+    {
+        "Name": "1 m² Fenster doppeltverglast Aluminiumrahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709472"
+    },
+    {
+        "Name": "1 m² Fenster doppeltverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402176"
+    },
+    {
+        "Name": "1 m² Fenster doppeltverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709475"
+    },
+    {
+        "Name": "1 m² Fenster doppeltverglast PVC-Rahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709474"
+    },
+    {
+        "Name": "1 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402177"
+    },
+    {
+        "Name": "1 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709477"
+    },
+    {
+        "Name": "1 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709476"
+    },
+    {
+        "Name": "1 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402178"
+    },
+    {
+        "Name": "1 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402179"
+    },
+    {
+        "Name": "1 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709479"
+    },
+    {
+        "Name": "1 m² Fenster einfachverglast Aluminiumrahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709478"
+    },
+    {
+        "Name": "1 m² Fenster einfachverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709481"
+    },
+    {
+        "Name": "1 m² Fenster einfachverglast PVC-Rahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709480"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402185"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709493"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast Aluminiumrahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709492"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402186"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709495"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709496"
+    },
+    {
+        "Name": "2 m² Fenster doppeltverglast PVC-Rahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709494"
+    },
+    {
+        "Name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402187"
+    },
+    {
+        "Name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402188"
+    },
+    {
+        "Name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709497"
+    },
+    {
+        "Name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2732189"
+    },
+    {
+        "Name": "2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2732188"
+    },
+    {
+        "Name": "2 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402189"
+    },
+    {
+        "Name": "2 m² Fenster einfachverglast Aluminiumrahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709499"
+    },
+    {
+        "Name": "2 m² Fenster einfachverglast Aluminiumrahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709498"
+    },
+    {
+        "Name": "2 m² Fenster einfachverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2402190"
+    },
+    {
+        "Name": "2 m² Fenster einfachverglast PVC-Rahmen",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709501"
+    },
+    {
+        "Name": "2 m² Fenster einfachverglast PVC-Rahmen Sanierung",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2709500"
+    },
+    {
+        "Name": "Fenster 3",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2519028"
+    },
+    {
+        "Name": "Fenster 4",
+        "KG DIN 276": "334",
+        "Fläche": 1,
+        "Bezugsgröße": "Stück",
+        "eLCA BT ID": "2519029"
+    }
+]

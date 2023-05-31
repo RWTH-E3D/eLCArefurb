@@ -1,0 +1,17 @@
+Archetyp,Variante,kg CO<sub>2</sub>-Äqv./a pro Euro
+A,Außenwandsanierung,0.004854465794694687
+A,Dachsanierung,0.0016168748288717119
+A,Fenstersanierung,0.02660555542455611
+A,Komplettsanierung,0.006631492807182615
+B,Außenwandsanierung,0.004684505370817646
+B,Dachsanierung,0.009277358409532012
+B,Fenstersanierung,0.12529560843741472
+B,Komplettsanierung,0.01013064989922944
+C,Außenwandsanierung,-0.005762690710181192
+C,Dachsanierung,0.0014384638177950024
+C,Fenstersanierung,0.02098349894795042
+C,Komplettsanierung,-0.00032211696042986417
+D,Außenwandsanierung,-0.005828682849516184
+D,Dachsanierung,0.011640521101121005
+D,Fenstersanierung,0.010059348996573667
+D,Komplettsanierung,0.0010222322473199819

@@ -1,0 +1,17 @@
+Archetyp,Variante,Material,Kapitalwert Energiekosten Einsparungen über 20 Jahre,Sanierungskosten Worst Case,Sanierungskosten Base Case,Sanierungskosten Best Case,Vergleich Best Case,Vergleich Base Case,Vergleich Worst Case
+A,Außenwandsanierung,Mineralwolle,3127.5,-35936.5,-19458.3,-2980.1,147.4,-16330.8,-32809.0
+A,Dachsanierung,EPS,1684.04,-20195.84,-11179.84,-2073.68,-389.64,-9495.8,-18511.8
+A,Fenstersanierung,PVC,4983.37,-9548.0,-7952.0,-6356.0,-1372.63,-2968.63,-4564.63
+A,Komplettsanierung,MineralwolleEPSPVC,10361.98,-65680.34,-38590.14,-11409.78,-1047.8,-28228.16,-55318.36
+B,Außenwandsanierung,Mineralwolle,3438.28,-40774.5,-22077.9,-3381.3,56.98,-18639.62,-37336.22
+B,Dachsanierung,Mineralwolle,1851.38,-21458.08,-11630.64,-1803.2,48.18,-9779.26,-19606.7
+B,Fenstersanierung,PVC,5478.57,-7502.0,-6248.0,-4994.0,484.57,-769.43,-2023.43
+B,Komplettsanierung,MineralwolleMineralwollePVC,11391.65,-69734.58,-39956.54,-10178.5,1213.15,-28564.89,-58342.93
+C,Außenwandsanierung,EPS,2947.43,-38021.0,-21079.0,-3940.0,-992.57,-18131.57,-35073.57
+C,Dachsanierung,EPS,1587.08,-19815.04,-10969.04,-2034.58,-447.5,-9381.96,-18227.96
+C,Fenstersanierung,PVC,4696.45,-9548.0,-7952.0,-6356.0,-1659.55,-3255.55,-4851.55
+C,Komplettsanierung,EPSEPSPVC,9765.37,-67384.04,-40000.04,-12330.58,-2565.21,-30234.67,-57618.67
+D,Außenwandsanierung,EPS,3482.98,-46069.1,-25540.9,-4774.0,-1291.03,-22057.92,-42586.12
+D,Dachsanierung,Mineralwolle,1875.45,-16098.32,-8725.56,-1352.8,522.65,-6850.11,-14222.87
+D,Fenstersanierung,PVC,5549.8,-15004.0,-12496.0,-9988.0,-4438.2,-6946.2,-9454.2
+D,Komplettsanierung,EPSMineralwollePVC,11539.75,-77171.42,-46762.46,-16114.8,-4575.05,-35222.71,-65631.67

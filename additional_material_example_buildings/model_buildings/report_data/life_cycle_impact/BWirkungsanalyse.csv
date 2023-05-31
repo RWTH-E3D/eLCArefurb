@@ -1,0 +1,48 @@
+Wirkungsanalyse,B Bestand,B Außenwandsanierung,B Dachsanierung,B Fenstersanierung,B Komplettsanierung
+GWP pro Gebäude,"18,16415065","17,62613862","17,60467399","17,57035817","16,38122777"
+Modul B6,"11,17751235","10,67209440","10,90536423","10,37217606","9,50296827"
+Konstruktion (KGR 300),"6,98663829","6,95404422","6,69930977","7,19818211","6,87825951"
+Ersparnis Bestand vs. Neubau,"-1,6161974550","-1,0937329659","-1,6834462539","-1,8666359153","-1,4114202252"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55,"2,6677696517","2,6351755765","2,6677696517","2,6677696517","2,6351755765"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Gipskartonplatte (Feuerschutz) [Altsubstanz],"3,9536876269E-3","3,9536876269E-3","3,9536876269E-3","3,9536876269E-3","3,9536876269E-3"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Dampfbremse PE [Altsubstanz],"0,0549038236","0,0549038236","0,0549038236","0,0549038236","0,0549038236"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Konstruktionsvollholz (Durchschnitt DE) [Altsubstanz],"0,7147164510","0,7147164510","0,7147164510","0,7147164510","0,7147164510"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Mineralwolle (Innenausbau-Dämmung) [Altsubstanz],"8,8216655176E-4","8,8216655176E-4","8,8216655176E-4","8,8216655176E-4","8,8216655176E-4"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Oriented Strand Board (Durchschnitt DE) [Altsubstanz],"0,4310357856","0,4310357856","0,4310357856","0,4310357856","0,4310357856"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Mineralwolle (Fassaden-Dämmung) [Altsubstanz],"0,3034384058","0,3034384058","0,3034384058","0,3034384058","0,3034384058"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Mineralwolle (Fassaden-Dämmung),-,"0,3522194646",-,-,"0,3522194646"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Konstruktionsvollholz (Durchschnitt DE),-,"0,0144119778",-,-,"0,0144119778"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  PE-HD mit PP-Vlies zur Abdichtung,-,"0,0994095248",-,-,"0,0994095248"
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  eLCA Luftschicht,-,"0,0000000000",-,-,"0,0000000000"
+"Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Schnittholz Lärche (12% Feuchte/10,7% H2O)",-,"0,1894620340",-,-,"0,1894620340"
+2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard,"0,3696626354","0,3696626354","0,3696626354","0,5812064497","0,5812064497"
+2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff  Fugendichtungsbänder PE/PP-Folie [Altsubstanz],"0,1144884498","0,1144884498","0,1144884498",-,-
+2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Dreifachverglasung [Altsubstanz],"0,2551678069","0,2551678069","0,2551678069",-,-
+"2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Aluminium-Rahmenprofil, pulverbeschichtet [Altsubstanz]","6,3786160381E-6","6,3786160381E-6","6,3786160381E-6",-,-
+Gründach belüftet Holzrahmenbau KfW 55,"3,9492060063","3,9492060063","3,6618774789","3,9492060063","3,6618774789"
+"Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Knauf - Gipskartonplatten GKB - Bauplatte 12,5 mm (680 kg/m³ u. 8,5 kg/m²) [Altsubstanz]","6,3929619290E-3","6,3929619290E-3","6,3929619290E-3","6,3929619290E-3","6,3929619290E-3"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Konstruktionsvollholz (Durchschnitt DE) [Altsubstanz],"0,2159840296","0,2159840296","0,2159840296","0,2159840296","0,2159840296"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Zellulosefaserplatten [Altsubstanz],"0,4486793733","0,4486793733","0,4486793733","0,4486793733","0,4486793733"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Unterspannbahn PP [Altsubstanz],"0,0215600091","0,0215600091",-,"0,0215600091",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  eLCA Luftschicht [Altsubstanz],"0,0000000000","0,0000000000",-,"0,0000000000",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Nadelschnittholz - getrocknet (Durchschnitt DE) [Altsubstanz],"0,2125176192","0,2125176192",-,"0,2125176192",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Dachbahnen EPDM [Altsubstanz],"0,3499774034","0,3499774034",-,"0,3499774034",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Folie für Gründach [Altsubstanz],"1,2114412502","1,2114412502",-,"1,2114412502",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Lava Körnung [Altsubstanz],"2,0004830843E-3","2,0004830843E-3",-,"2,0004830843E-3",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  PE/PP Vlies [Altsubstanz],"5,5557605595E-3","5,5557605595E-3",-,"5,5557605595E-3",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Sand 0/2 [Altsubstanz],"4,0918972179E-3","4,0918972179E-3",-,"4,0918972179E-3",-
+Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  PE-HD mit PP-Vlies zur Abdichtung [Altsubstanz],"0,1239224080",-,"0,1239224080","0,1239224080",-
+"Außenwand Holzrahmenbau Holzverkleidung KfW 55: Baustoff  Schnittholz Lärche (12% Feuchte/10,7% H2O) [Altsubstanz]","0,7371184022",-,"0,7371184022","0,7371184022",-
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Konstruktionsvollholz (Durchschnitt DE),-,-,"0,0304866346",-,"0,0304866346"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Mineralwolle (Flachdach-Dämmung),-,-,"0,2695460211",-,"0,2695460211"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Unterspannbahn PP,-,-,"0,0174521135",-,"0,0174521135"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  eLCA Luftschicht,-,-,"0,0000000000",-,"0,0000000000"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Nadelschnittholz - getrocknet (Durchschnitt DE),-,-,"0,0165321109",-,"0,0165321109"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Dachbahnen EPDM,-,-,"0,2963839556",-,"0,2963839556"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Folie für Gründach,-,-,"0,9953838952",-,"0,9953838952"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Lava Körnung,-,-,"4,7899719963E-3",-,"4,7899719963E-3"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  PE/PP Vlies,-,-,"0,0113743812",-,"0,0113743812"
+Gründach belüftet Holzrahmenbau KfW 55: Baustoff  Sand 0/2,-,-,"8,5238170518E-3",-,"8,5238170518E-3"
+2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff  Fugendichtungsbänder PE/PP-Folie,-,-,-,"0,0915927788","0,0915927788"
+2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Blendrahmen PVC-U,-,-,-,"0,2347311648","0,2347311648"
+2 m² Fenster dreifachverglast Aluminiumrahmen KfW 55 Standard: Baustoff Dreifachverglasung,-,-,-,"0,2548825061","0,2548825061"
