@@ -21,7 +21,7 @@ eLCArefurb can be used by cloning or downloading the whole eLCArefurb package fr
 You are invited to contribute to the development of eLCArefurb. You may report any issues by sending us an email to herzogenrath@e3d.rwth-aachen.de.
 
 ## How to cite eLCArefurb
-Citation of BS2023 Paper
+Herzogenrath, S. T., Schildt, M., Frisch, J. and van Treeck, C. A. (2024) ‘Automation of Life Cycle Assessments for large-scale building refurbishments’, Proceedings of the 18th IBPSA Conference, Shanghai, China, 4-6 September 2023. Available at: [https://doi.org/10.26868/25222708.2023.1172](https://doi.org/10.26868/25222708.2023.1172) 
 
 ## How to cite original eLCA bauteileditor
 Life cycle assessment of buildings - Assessing the global ecological quality of a building with eLCA, Federal Institute for Research on Building, Urban Affairs and Spatial Development, Research News No 1/2015 - Building and Architecture. 
